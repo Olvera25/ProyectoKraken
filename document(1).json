@@ -1,0 +1,40 @@
+[ 
+  {
+    "idJugador" : 1,
+    "nombre" : "Pedro",
+    "nivel" : 5,
+    "edad" : 15,
+    "es estudiante" : "false"
+  },
+  {
+    "idJugador" : 2,
+    "nombre" : "Juan",
+    "nivel" : 7,
+    "edad" : 18,
+    "es estudiante" : "false"
+  },
+  {
+    "idJugador" : 3,
+    "nombre" : "Hiralda",
+    "nivel" : 10,
+    "edad" : 22,
+    "es estudiante" : "true"
+  },
+  {
+    "idJugador" : 4,
+    "nombre" : "Luis",
+    "nivel" : 9,
+    "edad" : 17,
+    "es estudiante" : "true"
+  },
+  {
+    "idJugador" : 5,
+    "nombre" : "Velly",
+    "nivel" : 13,
+    "edad" : 24,
+    "es estudiante" : "true"
+  }
+]
+
+
+
